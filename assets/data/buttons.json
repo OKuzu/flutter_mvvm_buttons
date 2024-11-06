@@ -1,0 +1,72 @@
+[
+  {
+    "company_code": "PAYNET",
+    "agent_id": "PAYNET",
+    "user_name": "",
+    "sort_number": "1",
+    "name": "pay",
+    "text": "Ödeme Al",
+    "menu_type": 1,
+    "id": 1
+  },
+  {
+    "company_code": "PAYNET",
+    "agent_id": "PAYNET",
+    "user_name": "",
+    "sort_number": "2",
+    "name": "instalment_table",
+    "text": "Taksitler",
+    "menu_type": 1,
+    "id": 2
+  },
+  {
+    "company_code": "PAYNET",
+    "agent_id": "PAYNET",
+    "user_name": "",
+    "sort_number": "3",
+    "name": "paynet_link",
+    "text": "Paylink",
+    "menu_type": 1,
+    "id": 3
+  },
+  {
+    "company_code": "PAYNET",
+    "agent_id": "PAYNET",
+    "user_name": "",
+    "sort_number": "4",
+    "name": "report",
+    "text": "İşlemler",
+    "menu_type": 1,
+    "id": 4
+  },
+  {
+    "company_code": "PAYNET",
+    "agent_id": "PAYNET",
+    "user_name": "",
+    "sort_number": "6",
+    "name": "suggestion",
+    "text": "Öneri Gönder",
+    "menu_type": 1,
+    "id": 17
+  },
+  {
+    "company_code": "PAYNET",
+    "agent_id": "PAYNET",
+    "user_name": "",
+    "sort_number": "5",
+    "name": "paykredi",
+    "text": "PayKredi",
+    "menu_type": 1,
+    "id": 18
+  },
+  {
+    "company_code": "PAYNET",
+    "agent_id": "PAYNET",
+    "user_name": "",
+    "sort_number": "7",
+    "name": "limit",
+    "text": "Limitim",
+    "menu_type": 1,
+    "id": 19
+  }
+]
